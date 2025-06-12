@@ -4,6 +4,7 @@ import Dashboard from "../components/Dashboard";
 import Mission from "../components/Mission";
 import Last from "../components/Last";
 import Footer from "../components/Footer";
+import Chatbot from "../components/Chatbot";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Mission />
       <Last />
       <Footer />
+      <Chatbot />
     </div>
   );
 }

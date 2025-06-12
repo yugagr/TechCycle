@@ -353,8 +353,8 @@ function RecyclingDashboard() {
             <User size={48} />
           </div>
           <h2 className="profile-name">{displayName}</h2>
-          <p className="profile-subtitle">Eco Warrior since 2023</p>
-          <div className="profile-level-badge">Level 5 Recycler</div>
+          <p className="profile-subtitle">Eco Warrior since 2025</p>
+          <div className="profile-level-badge">Level 1 Recycler</div>
         </div>
 
         <div className="profile-progress">

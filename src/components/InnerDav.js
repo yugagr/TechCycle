@@ -1,6 +1,15 @@
 import React, { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { Recycle, User, Map, Lightbulb, LogOut, Moon, Sun, Menu } from "lucide-react";
+import {
+  Recycle,
+  User,
+  Map,
+  Lightbulb,
+  LogOut,
+  Moon,
+  Sun,
+  Menu,
+} from "lucide-react";
 import { useAuth } from "../contexts/authContext";
 import { doSignOut } from "../firebase/auth";
 import "../styles/InnerDav.css";
@@ -69,6 +78,8 @@ function Navbar() {
                 <Link to="info">Sell/Buy</Link>
                 <Link to="map">Recycling Centers</Link>
                 <Link to="awareness">Awareness</Link>
+                <Link to="institution">Institutions</Link>
+                <Link to="feedback">Feedback</Link>
               </div>
             )}
           </div>

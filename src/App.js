@@ -11,6 +11,8 @@ import InnerDash from "./components/InnerDash";
 import Profile from "./components/Profile";
 import RecyclingMap from "./components/RecyclingMap";
 import Awareness from "./components/Awareness";
+import FeedbackInterface from "./components/feedback";
+import InstitutionalPortal from "./components/institution";
 
 // Import your separate CSS file
 import "./App.css";
@@ -28,6 +30,8 @@ function AppRoutes() {
         { path: "info", element: <Profile /> },
         { path: "map", element: <RecyclingMap /> },
         { path: "awareness", element: <Awareness /> },
+        { path: "feedback", element: <FeedbackInterface /> },
+        { path: "institution", element: <InstitutionalPortal /> },
         { path: "", element: <InnerDash /> }, // Default child route
       ],
     },
