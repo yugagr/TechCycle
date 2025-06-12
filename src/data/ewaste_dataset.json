@@ -1,0 +1,43 @@
+[
+    {
+       "input": "I have an old iPhone 12. What's its value?",
+       "output": "The resale value of an iPhone 12 depends on its condition, storage, and accessories. Can you tell me if it’s working, its storage capacity, and if you have the box and charger?"
+    },
+    {
+       "input": "I have a broken Samsung Galaxy S10. What can I do with it?",
+       "output": "A broken Galaxy S10 can still be sold for parts. You can recycle it through Samsung's trade-in program or sell it to repair shops. If the screen is cracked but still works, you may get around $80-$150."
+    }, 
+    {"input": "It's in good condition, 128GB, and I have the charger but not the box.", 
+    "output": "A used iPhone 12 (128GB, good condition, with charger) typically sells for around $300-$400 in the market. You can sell it on platforms like eBay or Swappa, or recycle it for parts."
+    },
+{"input": "What should I do with my old laptop that is slow but still works?", "output": "If your laptop is functional but slow, you can upgrade its RAM or replace the HDD with an SSD to improve performance. If you want to sell it, mention its brand, model, and condition to get an estimated value."},
+
+{"input": "I have an old Dell Inspiron 15 from 2017 with 8GB RAM. How much is it worth?", "output": "A Dell Inspiron 15 (2017, 8GB RAM) typically sells for $100-$200, depending on its battery life and condition. You can sell it on Craigslist, eBay, or trade it in at a store like Best Buy."},
+
+{"input": "Where can I recycle an old TV?", "output": "You can recycle your old TV at e-waste collection centers like Best Buy, Staples, or your local recycling facility. Some brands like Samsung and LG also offer take-back programs for old electronics."},
+
+{"input": "I have an Apple Watch Series 3. Can I trade it in?", "output": "Apple Watch Series 3 trade-in value depends on its condition. If it works well, Apple offers trade-in credits, or you can sell it for around $50-$100 on third-party marketplaces."},
+
+{"input": "I have a MacBook Air 2019. What's its resale value?", "output": "The resale value of a MacBook Air 2019 depends on its condition and specifications. If it’s in good condition, it can sell for $400-$700 on platforms like eBay or Swappa. Do you have the original charger and box?"},
+
+{"input": "My laptop has a dead battery but works when plugged in. Can I sell it?", "output": "Yes! Even with a dead battery, your laptop can be sold. Mention the battery issue in your listing. You can still get $100-$300 depending on the model."},
+
+{"input": "Where can I sell my old phone?", "output": "You can sell your old phone on platforms like eBay, Swappa, Facebook Marketplace, or through trade-in programs like Apple, Samsung, or Best Buy."},
+
+{"input": "I have a PlayStation 4. How much is it worth?", "output": "A used PlayStation 4 (PS4) sells for around $150-$250, depending on the condition and whether you have controllers and accessories."},
+
+{"input": "My old TV is not working. What should I do with it?", "output": "If your TV isn’t working, you can recycle it at Best Buy, Staples, or your local e-waste center. Some cities offer free pickup for electronic waste."},
+
+{"input": "I have an old desktop PC. How can I get rid of it?", "output": "You can recycle your old desktop at an e-waste recycling center or donate it to organizations that refurbish computers. If it's working, you can sell it for parts."},
+
+{"input": "Can I recycle a broken tablet?", "output": "Yes, broken tablets can be recycled through Best Buy, Staples, or manufacturer take-back programs like Apple’s recycling program."},
+
+{"input": "What is the best way to dispose of an old printer?", "output": "Printers contain electronic components that should not be thrown in the trash. You can recycle them at Staples or Best Buy, or check if your city has an e-waste collection program."},
+
+{"input": "I have an old iPad 6th Gen. Can I trade it in?", "output": "Yes! Apple offers trade-in credits for old iPads. A 6th Gen iPad in good condition could be worth around $100-$200."},
+
+{"input": "How do I wipe data from my phone before selling it?", "output": "To wipe data from your phone before selling it, reset it to factory settings. On iPhones, go to Settings > General > Transfer or Reset > Erase All Content and Settings. On Android, go to Settings > System > Reset Options > Erase All Data (Factory Reset)."}
+
+
+ ]
+ 
